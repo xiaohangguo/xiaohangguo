@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=xiaohangguo" />
 </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=xiaohangguo&theme=xcode" /> </div>
