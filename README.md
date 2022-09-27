@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="center">"纸上得来终觉浅，绝知此事要躬行"</p>
 <!--
 **xiaohangguo/xiaohangguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/xiaohangguo?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohangguo&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=xiaohangguo" />
-</div>
 
+### 最近状态😨😨
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=xiaohangguo&theme=xcode" /> </div>
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);One More Time&center=true&size=27"> </a> </h1>
