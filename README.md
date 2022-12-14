@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <br>
 
 ## 最近状态😨😨
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=xiaohangguo&theme=xcode" /> </div>
+<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=xiaohangguo&theme=xcode" /> </div> -->
 <div align="center"> <img src="https://raw.githubusercontent.com/xiaohangguo/xiaohangguo/output/github-contribution-grid-snake.svg"/> </div>
