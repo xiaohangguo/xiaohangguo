@@ -26,7 +26,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#eeeeee,#cccccc,#aaaaaa,#888888,#666666
+            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#ffcc00,#ff9900,#ff6600,#ff3300,#cc0000
 
       # create the dist directory if it does not exist
       - name: Create dist directory
